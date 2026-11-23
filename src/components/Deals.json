@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "price": 5.99,
+    "src": "https://i.pinimg.com/736x/a4/a6/64/a4a6641c5eaed6eecacf9f0823b1f70f.jpg"
+  },
+  {
+    "id": 2,
+    "name": "French Fries",
+    "price": 2.99,
+    "src": "https://i.pinimg.com/1200x/f8/e8/a3/f8e8a3e6441076528e2ca67a39024fd2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizza Slice",
+    "price": 3.49,
+    "src": "https://i.pinimg.com/736x/ce/b7/8d/ceb78d45b2503e05f618ce97dcbf0cd8.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hot Dog",
+    "price": 3.99,
+    "src": "https://i.pinimg.com/736x/22/e5/4c/22e54c63e64fa81b8b39f824d18ab0c1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fried Chicken",
+    "price": 6.49,
+    "src": "https://i.pinimg.com/1200x/75/3a/6f/753a6fce9f53dd34909116411d3d1454.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cola",
+    "price": 1.99,
+    "src": "https://i.pinimg.com/1200x/13/6d/6c/136d6cf5c743b0eaab3b68f7d9c9072e.jpg"
+  }
+]

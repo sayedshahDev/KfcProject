@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "price": 5.99,
+    "src": "https://i.pinimg.com/736x/73/4c/61/734c61c72147dd6ee63b1e4bf112a0fb.jpg"
+  },
+  {
+    "id": 2,
+    "name": "French Fries",
+    "price": 2.99,
+    "src": "https://i.pinimg.com/736x/73/a5/c0/73a5c0f771e0a6e910445060d856594e.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizza Slice",
+    "price": 3.49,
+    "src": "https://i.pinimg.com/736x/ff/76/ef/ff76ef7ee263ee67c1ccbcf35932fdd2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hot Dog",
+    "price": 3.99,
+    "src": "https://i.pinimg.com/1200x/71/79/cf/7179cf162384567dc4462c49c2a53cb0.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fried Chicken",
+    "price": 6.49,
+    "src": "https://i.pinimg.com/1200x/83/9d/6a/839d6ae69bd82821dccb505896123d3d.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cola",
+    "price": 1.99,
+    "src": "https://i.pinimg.com/736x/40/4b/30/404b30a84b88f4652ee529d0c4993fbc.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Taco",
+    "price": 2.79,
+    "src": "https://i.pinimg.com/736x/d3/9e/91/d39e918535c49bcac27fe0449aa25f2b.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Nuggets",
+    "price": 4.99,
+    "src": "https://i.pinimg.com/1200x/e5/d5/b9/e5d5b98297beb201820bce92f94a65de.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Onion Rings",
+    "price": 3.29,
+    "src": "https://i.pinimg.com/736x/a4/ed/c7/a4edc7e4826101deab7e2b229c4c8bb5.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wings fast foods",
+    "price": 4.49,
+    "src": "https://i.pinimg.com/736x/b6/81/f8/b681f85cd4088a5fc6ddf82cdb5edd2a.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vanilla Cone",
+    "price": 2.49,
+    "src": "https://i.pinimg.com/736x/ef/b2/81/efb281414fd2a03387a7a289125f046d.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Strawberry Cone",
+    "price": 2.49,
+    "src": "https://i.pinimg.com/736x/43/69/33/4369336062cd8fb73b472d45144ad602.jpg"
+  }
+]

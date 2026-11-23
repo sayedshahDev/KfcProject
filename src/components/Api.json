@@ -1,0 +1,168 @@
+{
+  "version": "1.0",
+  "currency": "USD",
+  "background_color": "#E31B23",
+  "count": 8,
+  "items": [
+    {
+      "id": 1,
+      "slug": "cheeseburger",
+      "name": "Cheeseburger",
+      "category": "Burgers",
+      "description": "Juicy beef patty with melted cheese, lettuce and tomato on a sesame bun.",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "image": {
+        "hd": "/images/cheeseburger-hd.png",
+        "thumbnail": "/images/cheeseburger-thumb.png",
+        "vector": "/images/cheeseburger.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "french-fries",
+      "name": "French Fries",
+      "category": "Sides",
+      "description": "Crispy golden fries, lightly salted.",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "image": {
+        "hd": "/images/french-fries-hd.png",
+        "thumbnail": "/images/french-fries-thumb.png",
+        "vector": "/images/french-fries.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "pizza-slice",
+      "name": "Pizza Slice",
+      "category": "Pizza",
+      "description": "Hot pepperoni pizza slice with stretchy mozzarella.",
+      "price": {
+        "amount": 3.49,
+        "currency": "USD",
+        "formatted": "$3.49"
+      },
+      "image": {
+        "hd": "/images/pizza-slice-hd.png",
+        "thumbnail": "/images/pizza-slice-thumb.png",
+        "vector": "/images/pizza-slice.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "hot-dog",
+      "name": "Hot Dog",
+      "category": "Hot Dogs",
+      "description": "Grilled sausage in a soft bun with mustard.",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "image": {
+        "hd": "/images/hot-dog-hd.png",
+        "thumbnail": "/images/hot-dog-thumb.png",
+        "vector": "/images/hot-dog.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "fried-chicken",
+      "name": "Fried Chicken",
+      "category": "Chicken",
+      "description": "Crunchy, seasoned fried chicken drumstick.",
+      "price": {
+        "amount": 6.49,
+        "currency": "USD",
+        "formatted": "$6.49"
+      },
+      "image": {
+        "hd": "/images/fried-chicken-hd.png",
+        "thumbnail": "/images/fried-chicken-thumb.png",
+        "vector": "/images/fried-chicken.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "cola",
+      "name": "Cola",
+      "category": "Drinks",
+      "description": "Ice-cold fizzy cola in a large cup.",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "image": {
+        "hd": "/images/cola-hd.png",
+        "thumbnail": "/images/cola-thumb.png",
+        "vector": "/images/cola.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "taco",
+      "name": "Taco",
+      "category": "Mexican",
+      "description": "Crispy taco shell with lettuce, tomato and cheese.",
+      "price": {
+        "amount": 2.79,
+        "currency": "USD",
+        "formatted": "$2.79"
+      },
+      "image": {
+        "hd": "/images/taco-hd.png",
+        "thumbnail": "/images/taco-thumb.png",
+        "vector": "/images/taco.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "chicken-nuggets",
+      "name": "Chicken Nuggets",
+      "category": "Chicken",
+      "description": "Golden chicken nuggets served with dipping sauce.",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "image": {
+        "hd": "/images/chicken-nuggets-hd.png",
+        "thumbnail": "/images/chicken-nuggets-thumb.png",
+        "vector": "/images/chicken-nuggets.svg",
+        "width": 1920,
+        "height": 1920,
+        "background_color": "#E31B23"
+      }
+    }
+  ]
+}
