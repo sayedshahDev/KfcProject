@@ -11,15 +11,16 @@
 @theme {
   --font-kfc: "KFC", serif;
 }
-
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
+body{
+  overflow-x: hidden;
 }
-.no-scrollbar {
+
+html, body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
 
-html{
-  scroll-behavior: smooth;
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
 }
